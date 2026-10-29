@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarPanelTrackingScript", "SolarPanelTrackingScript.csproj", "{0C7E4C7D-6E38-9AE8-4294-CAD4342FE124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7E4C7D-6E38-9AE8-4294-CAD4342FE124}.Debug|x64.ActiveCfg = Debug|x64
+		{0C7E4C7D-6E38-9AE8-4294-CAD4342FE124}.Debug|x64.Build.0 = Debug|x64
+		{0C7E4C7D-6E38-9AE8-4294-CAD4342FE124}.Release|x64.ActiveCfg = Release|x64
+		{0C7E4C7D-6E38-9AE8-4294-CAD4342FE124}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7579603D-36A0-4CD8-B452-42E306B52ECE}
+	EndGlobalSection
+EndGlobal

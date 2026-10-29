@@ -1,0 +1,7 @@
+C:\Users\janma\Documents\MdkScriptProject\bin\x64\Debug\netframework48\MdkScriptProject.dll
+C:\Users\janma\Documents\MdkScriptProject\bin\x64\Debug\netframework48\MdkScriptProject.pdb
+C:\Users\janma\Documents\MdkScriptProject\obj\x64\Debug\netframework48\MdkScriptProject.csproj.AssemblyReference.cache
+C:\Users\janma\Documents\MdkScriptProject\obj\x64\Debug\netframework48\MdkScriptProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janma\Documents\MdkScriptProject\obj\x64\Debug\netframework48\MdkScriptProject.csproj.CoreCompileInputs.cache
+C:\Users\janma\Documents\MdkScriptProject\obj\x64\Debug\netframework48\MdkScriptProject.dll
+C:\Users\janma\Documents\MdkScriptProject\obj\x64\Debug\netframework48\MdkScriptProject.pdb
